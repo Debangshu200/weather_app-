@@ -1,1 +1,1 @@
-weather api using api
+weather app using api
